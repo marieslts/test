@@ -17,8 +17,6 @@ h2 {
 
 form {
     background: lightblue;
-}
-input[type*="sub"] {
-    border-radius: 0;
-    background: #fff;
+    width: 40%;
+    padding: 2em;
 }
