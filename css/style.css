@@ -6,3 +6,11 @@ main {
     max-width: 80%;
     margin: auto;
 }
+
+h2 {
+    color: lightcoral;
+}
+
+.f-grey {
+    background: rgb(163, 163, 163);
+}
