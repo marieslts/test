@@ -1,14 +1,14 @@
-h1 {
-    color: blue;
+h1, h2 {
+    background: lightskyblue;
+    color: #fff;
+    width: 8rem;
+    padding: 1em;
+
 }
 
 main {
     max-width: 80%;
     margin: auto;
-}
-
-h2 {
-    color: lightcoral;
 }
 
 .c-grey {
