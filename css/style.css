@@ -11,6 +11,14 @@ h2 {
     color: lightcoral;
 }
 
-.f-grey {
-    background: rgb(163, 163, 163);
+.c-grey {
+    color: rgb(163, 163, 163);
+}
+
+form {
+    background: lightblue;
+}
+input[type*="sub"] {
+    border-radius: 0;
+    background: #fff;
 }
