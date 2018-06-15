@@ -1,14 +1,35 @@
+header {
+    background: rgb(90, 90, 90);
+    width: 100%;
+    padding: 1em 3em;
+    margin: 0;
+}
+ul {
+    display: flex;
+    align-items: center;
+}
+
+li {
+    margin-left: 2em;
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+    color: #fff;
+}
+
+main {
+    max-width: 80%;
+    margin: auto;
+}
+
 h1, h2 {
     background: lightskyblue;
     color: #fff;
     width: 8rem;
     padding: 1em;
 
-}
-
-main {
-    max-width: 80%;
-    margin: auto;
 }
 
 .c-grey {
